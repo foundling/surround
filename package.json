@@ -1,0 +1,24 @@
+{
+  "name": "surround",
+  "version": "1.0.0",
+  "description": "A sibling of 'join'.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape ./**/*.test.js | tap-spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foundling/surround.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/foundling/surround/issues"
+  },
+  "homepage": "https://github.com/foundling/surround#readme",
+  "devDependencies": {
+    "tap-spec": "^5.0.0",
+    "tape": "^4.13.0"
+  }
+}
